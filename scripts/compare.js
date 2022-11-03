@@ -30,7 +30,6 @@ function checkProduct(){
             document.getElementById("battery").innerHTML = "3200 mAh";
             document.getElementById("screen").innerHTML = "OLED";
             document.getElementById("resolution").innerHTML = "2556 x 1179 Pixels";
-            
             break;
         case "iPhone 14 128GB":
             document.getElementById("name").innerHTML = "iPhone 14 128GB";
